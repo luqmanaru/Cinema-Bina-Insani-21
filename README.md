@@ -4,8 +4,6 @@
 ![HTML](https://img.shields.io/badge/HTML5-orange.svg)
 ![CSS](https://img.shields.io/badge/CSS3-purple.svg)
 
-# Cinema Bina Insani 21
-
 Aplikasi pemesanan tiket bioskop sederhana dengan perhitungan harga otomatis berdasarkan film, hari, dan waktu tayang.
 
 ## 📋 Deskripsi
